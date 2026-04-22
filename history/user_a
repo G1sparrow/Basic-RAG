@@ -1,0 +1,177 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "社交开屏型嘉豪是什么",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "社交开屏型嘉豪是经典原生种，最常见、最稳定的一种嘉豪类型，其典型特征不是帅或强，而是具有一种很神奇的“社交膨胀感”。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "语言大师型嘉豪是什么",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "语言大师型嘉豪最大的特点是：普通聊天，他也能说出一种年会总结发言的味道。他们仿佛永远在准备以下几类发言：成熟男性语录、情绪价值教学、人情世故入门指南、当代大学生生存法则、“其实你还年轻你不懂”。如果说别人的语言功能主要是沟通，那么这类嘉豪的语言功能主要是：显得自己很有东西。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "嘉豪一共有几种",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "目前常见的嘉豪类型主要有以下几种：\n\n1. **社交开屏型嘉豪**：典型特征是具有“社交膨胀感”，不是靠帅或强，而是能在社交场合中迅速扩张存在感。\n\n2. **语言大师型嘉豪**：擅长用看似深刻、成熟的话语包装日常聊天，语言风格像年会发言或人生导师，核心功能是“显得自己很有东西”。\n\n3. **情感通透型嘉豪**：本人感情生活可能一团糟，但谈起感情问题却异常清醒、理性、通透，仿佛看尽红尘。\n\n这些类型有时会重叠出现在同一个人身上，形成复合型嘉豪。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "社交性嘉豪的特点",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "社交性嘉豪（即“社交开屏型嘉豪”）的特点包括：\n\n- 具有一种神奇的“社交膨胀感”；\n- 爱社交、爱端着、爱输出、爱自拍；\n- 爱讲道理、爱讲社会、爱搞氛围；\n- 喜欢制造一点若有若无的优越感；\n- 他一出现，周围就会产生微妙的空气变化。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "还有哪些嘉豪",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "除了已提到的社交开屏型、语言大师型和情感通透型嘉豪外，目前网络语境中还衍生出以下几种常见嘉豪类型：\n\n4. **穿搭博主型嘉豪**：  \n   - 穿搭看似随意实则精心设计；  \n   - 擅长用基础款营造“松弛感”或“老钱风”；  \n   - 朋友圈常有咖啡、落日、侧脸自拍三件套。\n\n5. **情绪稳定型嘉豪**：  \n   - 面对任何突发状况都能淡淡一句“问题不大”；  \n   - 情绪像开了柔光滤镜，永远不急不躁；  \n   - 实际可能内心崩溃，但表面稳如泰山。\n\n6. **人生规划型嘉豪**：  \n   - 大学时就在讲“五年计划”；  \n   - 聊天必提“赛道”“沉淀”“长期主义”；  \n   - 好像每一步都走在通往成功人生的精确坐标上。\n\n7. **怀旧文艺型嘉豪**：  \n   - 动不动引用王家卫台词或张楚歌词；  \n   - 喜欢说“以前的人更真诚”；  \n   - 用胶片相机拍照，配文“时间会回答一切”。\n\n这些类型常互相交织，一个人可能同时具备多种嘉豪特质。嘉豪的本质，是一种高度风格化的男性气质表演，既真实又戏谑，既具体又模糊——正如那句：“他不一定真的叫嘉豪，但当你看到他的时候，你心里会自动冒出一句：嗯，这很嘉豪。”",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "情绪稳定型嘉豪",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "情绪稳定型嘉豪的特点包括：\n\n- 面对任何突发状况都能淡淡一句“问题不大”；  \n- 情绪像开了柔光滤镜，永远不急不躁；  \n- 实际可能内心崩溃，但表面稳如泰山。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "怀旧文艺型嘉豪",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "怀旧文艺型嘉豪的特点包括：\n\n- 动不动引用王家卫台词或张楚歌词；  \n- 喜欢说“以前的人更真诚”；  \n- 用胶片相机拍照，配文“时间会回答一切”。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
